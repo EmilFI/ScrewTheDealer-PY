@@ -1,3 +1,5 @@
+import pycountry
+
 print ("Whats your name?")
 x = input()
 
